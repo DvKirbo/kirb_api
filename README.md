@@ -1,6 +1,6 @@
 # kirb_api
 Initial state of the api 
-![hol |20](https://raw.githubusercontent.com/IMCueto/kirb_api/master/media/kirbo.png)
+![hol ](https://github.com/IMCueto/kirb_api/blob/master/media/kirbo.jpg)
 
 JSON API for a lore and basic data of kirby games series
 
