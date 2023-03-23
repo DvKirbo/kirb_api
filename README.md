@@ -10,4 +10,4 @@ The api uses the framework **flask** to run the server where the api is allowed
 
 To run the  server is symply only run the python archive:
 
-´´´& "./your_route/kirbapi.py"´´´
+```& "./your_route/kirbapi.py"```
