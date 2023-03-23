@@ -12,3 +12,15 @@ The api uses the framework **flask** to run the server where the api is allowed
 To run the  server is symply only run the python archive:
 
 ```& "./your_route/kirbapi.py"```
+
+#Routes
+
+``kirb_api/`` shows the status code and if the api is online
+
+##Characters
+
+``kirb_api/main``
+
+some info about main characthers of kirby videogame series
+
+
